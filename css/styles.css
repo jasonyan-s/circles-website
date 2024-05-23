@@ -52,7 +52,7 @@ blockquote {
 }
 
 img {
-	max-width: auto;
+	width: auto;
 	height: 70%;
 	display: inline-block;
 	position: fixed;
